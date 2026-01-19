@@ -1,0 +1,20 @@
+# TNP4B translation template
+msgid ""
+msgstr ""
+"Project-Id-Version: TNP4B 1.1.2\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: TNP4B\n"
+
+#: tnp4b.php:1
+msgid "Group digest"
+msgstr ""
+
+#: tnp4b.php:1
+msgid "Daily digest"
+msgstr ""
+
+#: tnp4b.php:1
+msgid "No new items for this group."
+msgstr ""
