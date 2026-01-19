@@ -1,6 +1,6 @@
-=== TNP4B ===
+=== BuddyActivist TNP4B ===
 
-- Contributors: Marco Giustini <info@marcogiustini.info>
+- Contributors: BuddyActivist
 - Tags: newsletter, buddypress, digest, email, modular, bridge, i18n
 - Requires at least: 5.8
 - Tested up to: 6.6
